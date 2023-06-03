@@ -87,7 +87,7 @@ rasa-core-sdk==0.12.2
 rasa-nlu==0.14.4
 redis==4.4.4
 regex==2018.1.10
-requests==2.21.0
+requests==2.31.0
 requests-toolbelt==0.9.1
 rocketchat-API==0.6.25
 ruamel.yaml==0.15.85
