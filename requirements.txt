@@ -93,7 +93,7 @@ rocketchat-API==0.6.25
 ruamel.yaml==0.15.85
 s3transfer==0.2.0
 scikit-learn==0.20.2
-scipy==1.2.0
+scipy==1.10.0
 simplejson==3.16.0
 six==1.11.0
 sklearn-crfsuite==0.3.6
